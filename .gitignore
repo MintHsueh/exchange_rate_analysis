@@ -13,6 +13,7 @@ airflow/webserver_config.py
 airflow/*.json
 airflow/__pycache__/
 airflow/airflow.cfg
+airflow/*.json.generated
 
 # 環境設定
 .env
