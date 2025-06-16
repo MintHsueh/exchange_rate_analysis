@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+venv_etl/
+
+# Airflow
+airflow/airflow.db
+airflow/logs/
+airflow/scheduler.*
+airflow/webserver_config.py
+airflow/*.json
+airflow/__pycache__/
+airflow/airflow.cfg
+
+# 環境設定
+.env
+
+# 資料與輸出
+data/
+*.csv
+*.xlsx
+
+# 其他
+test/
