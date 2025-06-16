@@ -1,4 +1,3 @@
-
 # Exchange Rate Analysis Project
 
 本專案使用 Python、Airflow、Spark、PostgreSQL 建立每日匯率資料的 ETL 與分析流程，並透過 Streamlit 製作資料視覺化介面。主要功能包含：
